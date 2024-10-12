@@ -1,4 +1,7 @@
 # Reconstruction-of-3D-CT-Volume-from-2D-X-ray-Images-using-Deep-Learning
+
+Requirements.txt used for python version 3.10.10
+
 The network inputs a 2D X-ray/DRR Image from 1/2/3 different views (Frontal/Frontal+Lateral/Frontal+Lateral+Top) and outputs a 3D CT Volume.
 
 LIDC Dataset was used in this project. It has 1012 entries of patients. But only 172 suitable entries were selected.
